@@ -32,40 +32,31 @@
 
 ### 📌 پروژه‌های مهم | Notable Projects | Wichtige Projekte
 
-•	✅ برنامه‌نویسی برای کنترل و نظارت بر سیستم‌های آزمایش و تست محصول
-Test System Control and Monitoring Software
-Software zur Steuerung und Überwachung von Testsystemen
-
+- ✅ **سیستم کنترل منبع تغذیه ASR-2000**  
   Power Supply Control System  
   Steuerungssystem für ASR-2000
-o	طراحی با TIA Portal | TIA Portal Design | TIA Portal-Projekt
-o	Design mit TIA Portal | TIA Portal Design | TIA Portal-Projekt
-o	Design with TIA Portal | TIA Portal Design | TIA Portal-Projekt
 
-o	اتصال به SQL Server | SQL Server Integration | SQL Server-Anbindung
-o	Anbindung an SQL-Server | SQL-Server-Integration | SQL-Server-Anbindung
-o	Connection to SQL Server | SQL Server Integration | SQL Server-Anbindung
-
-o	صفحات HMI در WinCC | HMI Screens in WinCC | HMI-Seiten in WinCC
-o	HMI-Bilder in WinCC | HMI-Bilder in WinCC | HMI-Seiten in WinCC
-o	HMI screens in WinCC | HMI-Screens in WinCC | HMI-Seiten in WinCC
+  - ارتباط LAN با SCPI | LAN control via SCPI | LAN-Steuerung über SCPI  
+  - رابط گرافیکی با WinForms | UI in WinForms | Benutzeroberfläche mit WinForms  
+  - خروجی CSV و PDF | Export to CSV/PDF | Export nach CSV/PDF
 
 - ✅ **سیستم مانیتورینگ صنعتی با WinCC و PLC**  
   Industrial Monitoring with WinCC + PLC  
   Industrielles Monitoring mit WinCC + SPS
 
- o	اتصال به سنسورها و دستگاه‌های اندازه‌گیری
-o	Anbindung an Sensoren und Messgeräte
-o	Connect to sensors and measurement devices
+  - طراحی با TIA Portal | TIA Portal Design | TIA Portal-Projekt  
+  - اتصال به SQL Server | SQL Server Integration | SQL Server-Anbindung  
+  - صفحات HMI در WinCC | HMI Screens in WinCC | HMI-Seiten in WinCC
 
-o	دریافت و نمایش داده‌های زمان واقعی
-o	Empfang und Anzeige von Echtzeitdaten
-o	Receive and display real-time data
+- ✅ **برنامه‌نویسی برای کنترل و نظارت بر سیستم‌های آزمایش و تست محصول**  
+  Test System Control and Monitoring Software  
+  Software zur Steuerung und Überwachung von Testsystemen
 
-o	تحلیل و ذخیره نتایج آزمایشی
-o	Analyse und Speicherung von Testergebnissen
-o	Analyze and store test results
+  - اتصال به سنسورها و دستگاه‌های اندازه‌گیری  
+  - دریافت و نمایش داده‌های زمان واقعی  
+  - تحلیل و ذخیره نتایج آزمایشی
 
+---
 
 ### 📈 GitHub Stats | آمار GitHub | GitHub-Statistiken
 
@@ -89,3 +80,4 @@ o	Analyze and store test results
 > 🧐 در حال یادگیری و ساخت ابزارهای ترکیبی بین نرم‌افزار و اتوماسیون هستم.  
 > 🚀 Always learning & building tools between code & control.  
 > ⚒️ Ich entwickle Systeme zwischen Software und Industrieautomatisierung.
+
