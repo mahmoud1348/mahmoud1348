@@ -32,13 +32,23 @@
 
 ### 📌 پروژه‌های مهم | Notable Projects | Wichtige Projekte
 
-- ✅ **سیستم کنترل منبع تغذیه ASR-2000**  
-  Power Supply Control System  
-  Steuerungssystem für ASR-2000
+- ✅ **برنامه‌نویسی برای کنترل و نظارت بر سیستم‌های آزمایش و تست محصول**  
+  Software zur Steuerung und Überwachung von Testsystemen  
+  Test System Control and Monitoring Software
 
-  - ارتباط LAN با SCPI | LAN control via SCPI | LAN-Steuerung über SCPI  
-  - رابط گرافیکی با WinForms | UI in WinForms | Benutzeroberfläche mit WinForms  
-  - خروجی CSV و PDF | Export to CSV/PDF | Export nach CSV/PDF
+  - اتصال به سنسورها و دستگاه‌های اندازه‌گیری
+  - دریافت و نمایش داده‌های زمان واقعی
+  - تحلیل و ذخیره نتایج آزمایشی
+  - Anbindung an Sensoren und Messgeräte
+  - Connect to sensors and measurement devices
+ 
+  - Empfang und Anzeige von Echtzeitdaten
+  - Receive and display real-time data
+ 
+  - Analyse und Speicherung von Testergebnissen
+  - Analyze and store test results
+
+
 
 - ✅ **سیستم مانیتورینگ صنعتی با WinCC و PLC**  
   Industrial Monitoring with WinCC + PLC  
