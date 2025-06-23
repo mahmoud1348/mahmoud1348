@@ -57,14 +57,16 @@
   - طراحی با TIA Portal | TIA Portal Design | TIA Portal-Projekt  
   - اتصال به SQL Server | SQL Server Integration | SQL Server-Anbindung  
   - صفحات HMI در WinCC | HMI Screens in WinCC | HMI-Seiten in WinCC
+  - Design mit TIA Portal | TIA Portal Design | TIA Portal-Projekt
+  - Design with TIA Portal | TIA Portal Design | TIA Portal-Projekt
+ 
+  - Anbindung an SQL-Server | SQL-Server-Integration | SQL-Server-Anbindung
+  - Connection to SQL Server | SQL Server Integration | SQL Server-Anbindung
+ 
+  - HMI-Bilder in WinCC | HMI-Bilder in WinCC | HMI-Seiten in WinCC
+  - HMI screens in WinCC | HMI-Screens in WinCC | HMI-Seiten in WinCC
 
-- ✅ **برنامه‌نویسی برای کنترل و نظارت بر سیستم‌های آزمایش و تست محصول**  
-  Test System Control and Monitoring Software  
-  Software zur Steuerung und Überwachung von Testsystemen
 
-  - اتصال به سنسورها و دستگاه‌های اندازه‌گیری  
-  - دریافت و نمایش داده‌های زمان واقعی  
-  - تحلیل و ذخیره نتایج آزمایشی
 
 ---
 
